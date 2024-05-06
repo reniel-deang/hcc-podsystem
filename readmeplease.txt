@@ -34,3 +34,6 @@ $witness_signature = $_POST['witness_signature'];
 -pag may tanong kayo chat nyo nalang ako salamat
 
 -kung gusto nyo palitan yung database or may binago kayo chat lang kayo sa gc para alam nila tas ilagay nyo sa commit ano mga binago nyo
+
+- if 200 sya success lagi ibig sabihin nandyan
+-pag 404 error sya
