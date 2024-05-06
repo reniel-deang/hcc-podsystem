@@ -1,4 +1,5 @@
-<?php 
+-import nyo yung database nandyan na. yung name ng db yung name nya mismo 'db_hccpod'
+-pag may kulang or sobra sa pag import, i remove nyo nalang yung variable sa form_variable tsaka yung insert sa submit_form. para may guide kayo eto yung guide
 
 $fname = $_POST['fname'];
 $mname = $_POST['mname'];
@@ -30,4 +31,6 @@ $parent_signature = $_POST['parent_signature'];
 $teacher_signature = $_POST['teacher_signature'];
 $witness_signature = $_POST['witness_signature'];
 
-?>
+-pag may tanong kayo chat nyo nalang ako salamat
+
+-kung gusto nyo palitan yung database or may binago kayo chat lang kayo sa gc para alam nila tas ilagay nyo sa commit ano mga binago nyo
